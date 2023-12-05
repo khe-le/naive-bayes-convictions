@@ -1,4 +1,4 @@
-# COM307 Project 2 - Wrongful Conviction Data
+# Wrongful Conviction Data
 ## Author: Khe (Kate) Le
 ## Due date: Oct 12
 ---
